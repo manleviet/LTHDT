@@ -1,0 +1,7 @@
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\Employee\Employee2\bin\Debug\Employee2.exe.config
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\Employee\Employee2\bin\Debug\Employee2.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\Employee\Employee2\bin\Debug\Employee2.pdb
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\Employee\Employee2\obj\Debug\Employee2.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\Employee\Employee2\obj\Debug\Employee2.csproj.CoreCompileInputs.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\Employee\Employee2\obj\Debug\Employee2.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\Employee\Employee2\obj\Debug\Employee2.pdb

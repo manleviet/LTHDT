@@ -1,0 +1,7 @@
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\SavingAccount\SavingAccount\bin\Debug\SavingAccount.exe.config
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\SavingAccount\SavingAccount\bin\Debug\SavingAccount.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\SavingAccount\SavingAccount\bin\Debug\SavingAccount.pdb
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\SavingAccount\SavingAccount\obj\Debug\SavingAccount.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\SavingAccount\SavingAccount\obj\Debug\SavingAccount.csproj.CoreCompileInputs.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\SavingAccount\SavingAccount\obj\Debug\SavingAccount.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\SavingAccount\SavingAccount\obj\Debug\SavingAccount.pdb

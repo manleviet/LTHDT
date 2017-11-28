@@ -1,0 +1,7 @@
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\Point\Point\bin\Debug\Point.exe.config
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\Point\Point\bin\Debug\Point.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\Point\Point\bin\Debug\Point.pdb
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\Point\Point\obj\Debug\Point.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\Point\Point\obj\Debug\Point.csproj.CoreCompileInputs.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\Point\Point\obj\Debug\Point.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 2\Point\Point\obj\Debug\Point.pdb
