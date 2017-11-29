@@ -1,0 +1,7 @@
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\Car\Car\bin\Debug\Car.exe.config
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\Car\Car\bin\Debug\Car.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\Car\Car\bin\Debug\Car.pdb
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\Car\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\Car\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\Car\Car\obj\Debug\Car.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\Car\Car\obj\Debug\Car.pdb

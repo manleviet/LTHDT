@@ -1,0 +1,7 @@
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\PeopleCollection\PeopleCollection\bin\Debug\PeopleCollection.exe.config
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\PeopleCollection\PeopleCollection\bin\Debug\PeopleCollection.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\PeopleCollection\PeopleCollection\bin\Debug\PeopleCollection.pdb
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\PeopleCollection\PeopleCollection\obj\Debug\PeopleCollection.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\PeopleCollection\PeopleCollection\obj\Debug\PeopleCollection.csproj.CoreCompileInputs.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\PeopleCollection\PeopleCollection\obj\Debug\PeopleCollection.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\PeopleCollection\PeopleCollection\obj\Debug\PeopleCollection.pdb

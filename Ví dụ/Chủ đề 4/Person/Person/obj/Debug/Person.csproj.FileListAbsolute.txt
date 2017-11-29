@@ -1,0 +1,7 @@
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\Person\Person\bin\Debug\Person.exe.config
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\Person\Person\bin\Debug\Person.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\Person\Person\bin\Debug\Person.pdb
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\Person\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\Person\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\Person\Person\obj\Debug\Person.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\Person\Person\obj\Debug\Person.pdb

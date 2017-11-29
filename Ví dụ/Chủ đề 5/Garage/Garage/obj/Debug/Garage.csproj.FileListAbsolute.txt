@@ -1,0 +1,7 @@
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\Garage\Garage\bin\Debug\Garage.exe.config
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\Garage\Garage\bin\Debug\Garage.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\Garage\Garage\bin\Debug\Garage.pdb
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\Garage\Garage\obj\Debug\Garage.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\Garage\Garage\obj\Debug\Garage.csproj.CoreCompileInputs.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\Garage\Garage\obj\Debug\Garage.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\Garage\Garage\obj\Debug\Garage.pdb

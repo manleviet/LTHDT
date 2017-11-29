@@ -1,0 +1,7 @@
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\IPointy\IPointy\bin\Debug\IPointy.exe.config
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\IPointy\IPointy\bin\Debug\IPointy.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\IPointy\IPointy\bin\Debug\IPointy.pdb
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\IPointy\IPointy\obj\Debug\IPointy.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\IPointy\IPointy\obj\Debug\IPointy.csproj.CoreCompileInputs.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\IPointy\IPointy\obj\Debug\IPointy.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 5\IPointy\IPointy\obj\Debug\IPointy.pdb

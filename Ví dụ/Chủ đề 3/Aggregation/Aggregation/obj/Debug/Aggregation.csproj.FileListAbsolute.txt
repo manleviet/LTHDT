@@ -1,0 +1,7 @@
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 3\Aggregation\Aggregation\bin\Debug\Aggregation.exe.config
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 3\Aggregation\Aggregation\bin\Debug\Aggregation.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 3\Aggregation\Aggregation\bin\Debug\Aggregation.pdb
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 3\Aggregation\Aggregation\obj\Debug\Aggregation.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 3\Aggregation\Aggregation\obj\Debug\Aggregation.csproj.CoreCompileInputs.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 3\Aggregation\Aggregation\obj\Debug\Aggregation.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 3\Aggregation\Aggregation\obj\Debug\Aggregation.pdb

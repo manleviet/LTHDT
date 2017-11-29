@@ -1,0 +1,7 @@
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\HCEPerson\HCEPerson\bin\Debug\HCEPerson.exe.config
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\HCEPerson\HCEPerson\bin\Debug\HCEPerson.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\HCEPerson\HCEPerson\bin\Debug\HCEPerson.pdb
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\HCEPerson\HCEPerson\obj\Debug\HCEPerson.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\HCEPerson\HCEPerson\obj\Debug\HCEPerson.csproj.CoreCompileInputs.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\HCEPerson\HCEPerson\obj\Debug\HCEPerson.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\HCEPerson\HCEPerson\obj\Debug\HCEPerson.pdb

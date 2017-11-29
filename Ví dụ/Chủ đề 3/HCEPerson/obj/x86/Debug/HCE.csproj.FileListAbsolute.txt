@@ -1,0 +1,6 @@
+C:\Users\DDD\Desktop\HCE\bin\Debug\HCE.exe
+C:\Users\DDD\Desktop\HCE\bin\Debug\HCE.pdb
+C:\Users\DDD\Desktop\HCE\obj\x86\Debug\HCE.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Desktop\HCE\obj\x86\Debug\HCE.csproj.CoreCompileInputs.cache
+C:\Users\DDD\Desktop\HCE\obj\x86\Debug\HCE.exe
+C:\Users\DDD\Desktop\HCE\obj\x86\Debug\HCE.pdb

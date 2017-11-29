@@ -1,0 +1,7 @@
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 3\Composition\Composition\bin\Debug\Composition.exe.config
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 3\Composition\Composition\bin\Debug\Composition.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 3\Composition\Composition\bin\Debug\Composition.pdb
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 3\Composition\Composition\obj\Debug\Composition.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 3\Composition\Composition\obj\Debug\Composition.csproj.CoreCompileInputs.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 3\Composition\Composition\obj\Debug\Composition.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 3\Composition\Composition\obj\Debug\Composition.pdb

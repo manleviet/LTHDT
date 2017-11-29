@@ -1,0 +1,7 @@
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\Shape\Shape\bin\Debug\Shape.exe.config
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\Shape\Shape\bin\Debug\Shape.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\Shape\Shape\bin\Debug\Shape.pdb
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\Shape\Shape\obj\Debug\Shape.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\Shape\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\Shape\Shape\obj\Debug\Shape.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Ví dụ\Chủ đề 4\Shape\Shape\obj\Debug\Shape.pdb

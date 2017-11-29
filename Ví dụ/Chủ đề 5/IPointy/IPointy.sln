@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPointy", "IPointy\IPointy.csproj", "{B1C36480-8690-4803-B486-C7649E1800BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1C36480-8690-4803-B486-C7649E1800BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C36480-8690-4803-B486-C7649E1800BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C36480-8690-4803-B486-C7649E1800BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C36480-8690-4803-B486-C7649E1800BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DC3470D-5C22-49F6-9EE6-B93DC8FB1D7D}
+	EndGlobalSection
+EndGlobal
