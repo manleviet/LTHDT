@@ -1,0 +1,7 @@
+C:\Users\DDD\Documents\GitHub\LTHDT\Bài tập\2017\SchellingModel\SchellingModel\bin\Debug\SchellingModel.exe.config
+C:\Users\DDD\Documents\GitHub\LTHDT\Bài tập\2017\SchellingModel\SchellingModel\bin\Debug\SchellingModel.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Bài tập\2017\SchellingModel\SchellingModel\bin\Debug\SchellingModel.pdb
+C:\Users\DDD\Documents\GitHub\LTHDT\Bài tập\2017\SchellingModel\SchellingModel\obj\Debug\SchellingModel.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Bài tập\2017\SchellingModel\SchellingModel\obj\Debug\SchellingModel.csproj.CoreCompileInputs.cache
+C:\Users\DDD\Documents\GitHub\LTHDT\Bài tập\2017\SchellingModel\SchellingModel\obj\Debug\SchellingModel.exe
+C:\Users\DDD\Documents\GitHub\LTHDT\Bài tập\2017\SchellingModel\SchellingModel\obj\Debug\SchellingModel.pdb
